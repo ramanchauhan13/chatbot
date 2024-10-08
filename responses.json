@@ -1,0 +1,82 @@
+{
+    "hi": [
+        "What would you like to have today?",
+        "What are you in the mood for?"
+    ],
+    "hello": [
+        "What would you like to have today?",
+        "What are you in the mood for?"
+    ],
+    "what do you have": [
+        "We have coffee, tea & patry. What sounds good?"
+    ],
+    "i want coffee": [
+        "What type of coffee would you like? We have espresso, latte, cappuccino, and more."
+    ],
+    "espresso": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "latte": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "cappuccino": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "i want tea": [
+        "We offer a variety of teas, including herbal, black, and green. Which one would you like?"
+    ],
+    "i want smoothies": [
+        "We have shakes, mocktails & mohitos. What would you like to try?"
+    ],
+    "coffee": [
+        "What type of coffee would you like? We have espresso, latte, cappuccino, and more."
+    ],
+    "tea": [
+        "We offer a variety of teas, including herbal, black, and green. Which one would you like?"
+    ],
+    "herbal": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "black": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "green": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "pastry": [
+        "We offer a variety of pastries, including Croissant, Eclair & Baklava. Which one would you like?"
+    ],
+    "i want pastry": [
+        "We offer a variety of pastries, including Croissant, Eclair & Baklava. Which one would you like?"
+    ],
+    "croissant": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "eclair": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "baklava": [
+        "Great choice! I'll get that ready for you.",
+        "Feel free to let me know if you want any modifications to your order!"
+    ],
+    "ok": [
+        "So, your order is Confirmed. Would you like anything else?"
+    ],
+    "no": [
+        "OK! Thanks for your order! It will be ready shortly."
+    ],
+    "thanks":[
+        "WELCOME!"
+    ],
+    "thank you":[
+        "WELCOME!"
+    ]
+}
